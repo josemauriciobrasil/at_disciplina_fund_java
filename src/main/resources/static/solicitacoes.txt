@@ -1,0 +1,4 @@
+E;Empresa_legal;01-922-555-0001-86;2222-3333;Rua A, casa B;perto da esquina;niteroi;22000-222;
+F;Pedido_Urgente;10000;S;G;6;12;
+G;Garantia_adicional;1000;S;R;12;true;
+C;Consultoria_especial; 500;S;true;12;true;
